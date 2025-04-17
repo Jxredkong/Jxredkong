@@ -1,7 +1,7 @@
 ## Hi, I'm Jared ♊
 
 🧠 Computer Science Student at Nanyang Technological University 🇸🇬<br>
-⚜️ AI Software Engieer Summer Intern at Pints.AI<br>
+⚜️ AI Software Engineer Summer Intern at Pints.AI<br>
 💕 Artificial Intelligence & Software Engineering Enthusiast<br>
 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/jared-kongmannhao)
 
