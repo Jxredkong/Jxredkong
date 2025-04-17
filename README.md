@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jxredkong&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jxredkong&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxredkong&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxredkong&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
