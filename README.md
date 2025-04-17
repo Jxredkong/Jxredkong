@@ -4,6 +4,7 @@
 ⚜️ AI Software Engineer Summer Intern at Pints.AI<br>
 💕 Artificial Intelligence & Software Engineering Enthusiast<br>
 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/jared-kongmannhao)
+🎵 Maybe we have the same taste [spotify](https://open.spotify.com/user/jaredlovesbutter?si=ab765fff5ab740ac)
 
 
 ## 🌐 Socials:
