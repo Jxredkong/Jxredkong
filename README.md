@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jxredkong&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxredkong&theme=tokyonight&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Inspirtaion!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
